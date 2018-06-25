@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 testseessssssssdddd
 ddddh
-=======
-testseettttttssssssss
-
->>>>>>> 1229cb35064cc686bf2eb28410a4875b01b80743
